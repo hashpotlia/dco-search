@@ -1,0 +1,12 @@
+[
+  {
+    "id": "dco-search-google",
+    "name": "DCO Search - Google",
+    "url": "https://www.google.com/search?q={query}"
+  },
+  {
+    "id": "dco-search-youtube",
+    "name": "DCO Search - YouTube",
+    "url": "https://www.youtube.com/results?search_query={query}"
+  }
+]
