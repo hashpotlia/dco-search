@@ -8,5 +8,10 @@
     "id": "dco-search-youtube",
     "name": "DCO Search - YouTube",
     "url": "https://www.youtube.com/results?search_query={query}"
+  },
+  {
+    "id": "dco-search-bing",
+    "name": "DCO Search - Bing",
+    "url": "https://www.bing.com/search?q={query}"
   }
 ]
