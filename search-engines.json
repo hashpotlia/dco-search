@@ -1,17 +1,19 @@
 [
   {
-    "id": "dco-search-google",
-    "name": "DCO Search - Google",
-    "url": "https://www.google.com/search?q={query}"
+    "id": "Mobility",
+    "name": "DCO Search - Mobility",
+    "url": "https://mobility.amazon.com/part/search?search_string={query}"
+	"urlSuffix: "+%26%26+AKL&query=GO&search_type=all&max_rows=50",
   },
   {
-    "id": "dco-search-youtube",
-    "name": "DCO Search - YouTube",
-    "url": "https://www.youtube.com/results?search_query={query}"
+    "id": "Racks(Strider)",
+    "name": "DCO Search - AKL NSM(Hostname)",
+    "url": "https://nsm-akl.aka.corp.amazon.com/?query={query}"
   },
   {
-    "id": "dco-search-bing",
-    "name": "DCO Search - Bing",
-    "url": "https://www.bing.com/search?q={query}"
+    "id": "Happoshu(Hostname)",
+    "name": "DCO Search - Happoshu(Hostname)",
+    "url": "https://tavern.corp.amazon.com/happoshu?all_sources=true&partial_match=true&all_devices_in_rack=false&show_deleted=false&device_names={query}"
+	"urlSuffix: "®ion=AKL#search",
   }
 ]
